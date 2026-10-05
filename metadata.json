@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Cinema - Movie Ticket Booking & Smart Experience",
+  "description": "Next-generation cinematic movie ticket booking with real-time interactive seat selection, secure payment integration, and personalized AI movie recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
